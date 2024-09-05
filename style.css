@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+    front-family: "danicng Script", curvise;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+    button{
+        background-color: aqua;
